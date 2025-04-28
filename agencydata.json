@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Hawaii",
+        "description":"Hawaii is a tropical U.S. state known for its beautiful beaches, volcanoes, lush landscapes, and rich island culture.",
+        "price":"550$",
+        "image":"/images/Hawaii.jpg"
+    },
+    {
+        "id":2,
+        "name":"Italy",
+        "description":"Italy is a European country famous for its rich history, art, fashion, stunning landscapes, and delicious cuisine.",
+        "price":"450$",
+        "image":"/images/Italy.jpg"
+        
+    },
+    {
+        "id":3,
+        "name":"Japan",
+        "description":"Japan is an island nation known for its unique blend of ancient traditions, modern technology, stunning landscapes, and rich culture.",
+        "price":"450$",
+        "image":"/images/Japan.jpg"
+
+    },
+    {
+        "id":4,
+        "name":"Norway",
+        "description":"Norway is a Scandinavian country known for its dramatic fjords, northern lights, Viking history, and stunning natural beauty.",
+        "price":"450$",
+        "image":"/images/Norway.jpg"
+
+    }
+]
