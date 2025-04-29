@@ -4,14 +4,14 @@
         "name":"Hawaii",
         "description":"Hawaii is a tropical U.S. state known for its beautiful beaches, volcanoes, lush landscapes, and rich island culture.",
         "price":"550$",
-        "image":"https://github.com/adisas24/data/blob/main/images/Hawaii.jpg"
+        "image":"https://raw.githubusercontent.com/adisas24/data/refs/heads/main/images/Hawaii.jpg"
     },
     {
         "id":2,
         "name":"Italy",
         "description":"Italy is a European country famous for its rich history, art, fashion, stunning landscapes, and delicious cuisine.",
         "price":"450$",
-        "image":"https://github.com/adisas24/data/blob/main/images/Italy.jpg"
+        "image":"https://raw.githubusercontent.com/adisas24/data/refs/heads/main/images/Italy.jpg"
         
     },
     {
@@ -19,7 +19,7 @@
         "name":"Japan",
         "description":"Japan is an island nation known for its unique blend of ancient traditions, modern technology, stunning landscapes, and rich culture.",
         "price":"450$",
-        "image":"https://github.com/adisas24/data/blob/main/images/Japan.jpg"
+        "image":"https://raw.githubusercontent.com/adisas24/data/refs/heads/main/images/Japan.jpg"
 
     },
     {
@@ -27,7 +27,7 @@
         "name":"Norway",
         "description":"Norway is a Scandinavian country known for its dramatic fjords, northern lights, Viking history, and stunning natural beauty.",
         "price":"450$",
-        "image":"https://github.com/adisas24/data/blob/main/images/Norway.jpg"
+        "image":"https://raw.githubusercontent.com/adisas24/data/refs/heads/main/images/Norway.jpg"
 
     }
 ]
